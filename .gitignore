@@ -1,0 +1,29 @@
+# Pastas que não quero enviar ao GitHub
+testes/
+resultados_ICO/
+resultados_ICO2/
+resultados_ISE/
+
+# Ambiente virtual Python
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Licenças, chaves e segredos
+.env
+*.lic
+*.key
+gurobi.lic
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
